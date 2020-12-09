@@ -1,0 +1,32 @@
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\ContatosBD.mdf
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\ContatosBD_log.ldf
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\ContatosBD.mdf
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\ContatosBD_log.ldf
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Form1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\WindowsFormsApp1.Form1.resources
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Form1.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\Contatos.exe.config
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\Contatos.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\Contatos.application
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\Contatos.exe
+\\vmware-host\Shared Folders\Desktop\Contatos\bin\Debug\Contatos.pdb
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Contatos.exe.manifest
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Contatos.application
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Contatos.exe
+\\vmware-host\Shared Folders\Desktop\Contatos\obj\Debug\Contatos.pdb

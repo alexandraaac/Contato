@@ -1,0 +1,7 @@
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Contatos.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Contatos.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alexandra\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
